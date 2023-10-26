@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698328314 source:c:\users\Данил\desktop\Задания по Си\zadacha 1(lifo)\main.c
+	"head.h"
+
+1698326567 c:\users\Данил\desktop\Задания по Си\zadacha 1(lifo)\head.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
